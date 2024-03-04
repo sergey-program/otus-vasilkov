@@ -9,7 +9,7 @@ PHP ~8.0
 # Установка
 
 ```bash
-composer require sergey-vasilkov\otus-vasilkov
+composer require sergey-program/otus-vasilkov
 ```
 
 # Использование
