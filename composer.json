@@ -1,0 +1,17 @@
+{
+    "name": "sergey-program/otus-vasilkov",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sergey\\OtusVasilkov\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sergey"
+        }
+    ],
+    "require": {
+        "cocur/slugify": "^4.5"
+    }
+}
