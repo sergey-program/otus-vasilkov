@@ -1,6 +1,6 @@
 {
     "name": "sergey-program/otus-vasilkov",
-    "type": "project",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Sergey\\OtusVasilkov\\": "src/"
